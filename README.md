@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Dakoni4400)](https://github.com/LordDashMe/github-contribution-stats/)
-
 ![Contribution Stats](https://github-readme-stats.vercel.app/api?username=Dakoni4400&show_icons=true)
+
+Contributed to:
+- Laravel
+- Microsoft Graph PHP SDK
 
 
 
