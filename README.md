@@ -3,8 +3,8 @@
 ![Contribution Stats](https://github-readme-stats.vercel.app/api?username=Dakoni4400&show_icons=true)
 
 Contributed to:
-- @laravel
-- @microsoftgraph
+- [Laravel](https://github.com/laravel/framework)
+- [Microsoft Graph PHP SDK](https://github.com/microsoftgraph/MSGraph-SDK-Code-Generator)
 
 
 
