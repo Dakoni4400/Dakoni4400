@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 Contributed to:
-- [Laravel](https://github.com/laravel/framework)
-- [Microsoft Graph PHP SDK](https://github.com/microsoftgraph/MSGraph-SDK-Code-Generator)
+- [Laravel](https://github.com/laravel/framework) ([#39269](https://github.com/laravel/framework/pull/39269))
+- [Microsoft Graph PHP SDK](https://github.com/microsoftgraph/MSGraph-SDK-Code-Generator) ([#626](https://github.com/microsoftgraph/MSGraph-SDK-Code-Generator/pull/626))
 
 
 
